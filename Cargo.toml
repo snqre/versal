@@ -1,6 +1,6 @@
 [package]
 name = "versal"
-description = ""
+description = "A trait library for better ergonomics."
 keywords = ["lib", "trait", "no_std"]
 version = "0.1.0"
 edition = "2024"
